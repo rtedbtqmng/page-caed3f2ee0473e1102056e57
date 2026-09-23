@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a525c9f974197817aa43f400",
+  "owner": "rtedbtqmng",
+  "repo": "page-caed3f2ee0473e1102056e57",
+  "title": "XFLASH",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "caed3f2ee0473e1102056e57",
+      "a": "XFLASH",
+      "b": "2027最新官网",
+      "entity": "XFLASH",
+      "brand": "XFLASH",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3604a52e5b30fcc084db8037a1bfc6aaf52720398b46dab2c03deb8248307ac0",
+      "content": {
+        "primary_entity": "XFLASH",
+        "keyword1": "XFLASH",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，配置订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并配置订阅，让跨区网络更顺畅。",
+          "AI_CLOSING_TITLE": "选对 XFLASH 套餐",
+          "AI_DESCRIPTION": "，围绕跨境网络加速需求设计多档订阅，基础版每月 100GB 流量适合轻量浏览，旗舰版每月 300GB 并支持 5 台设备，团队版每月 1000GB 与 20 台设备同时在线。用户可依据设备数量、流量消耗和流媒体或游戏加速场景挑选方案，按年付比按月付更省，适合长期稳定使用。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开，方便判断适合哪一档。",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 与 5 台设备，含 IPLC 专线适合游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 与 20 台设备，适合多人协同与高带宽场景。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "XFLASH 提供跨境网络加速订阅，按流量与设备数划分基础版、旗舰版和团队版。用户可结合自己的设备数量、日常流量消耗以及是否需要流媒体解锁或游戏专线加速，选择对应套餐，并按客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "按设备与流量选跨境加速套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按年付可节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐的在线设备数和流媒体或游戏加速权益是否匹配。",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "XFLASH 跨境加速",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台。同一时间超出设备数会导致部分设备掉线，建议按常用终端数量选择。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，日常追剧加游戏选旗舰版，多人共享选团队版。",
+          "AI_FAQ_ANSWER_3": "可以用 Shadowrocket 或 Stash，导入订阅链接后选择节点即可。注意 iOS 客户端需要非中国大陆区 Apple ID 下载。",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线并针对游戏场景优化路由，晚高峰延迟波动相对更小。若主要玩外服游戏，建议优先考虑旗舰版。",
+          "AI_FAQ_ANSWER_5": "三档套餐都支持年付，年付价格约为月付的十个月费用。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "XFLASH 各套餐分别支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "iOS 设备用什么客户端？",
+          "AI_FAQ_QUESTION_4": "哪档套餐游戏加速效果更好？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "XFLASH 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nexitallyeb.com",
+    "host": "nexitallyeb.com"
+  },
+  "file_hashes": {
+    "index.html": "e6f98e14b9b82e49d82fa89e1f8a2f37bd740ab4d0b56392cd7439a1e27e26ad",
+    "sitemap.xml": "7d2c1926ab9af4805d2357f5ec9cefc8313e85aecc913948a4a535a4771f521e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "37178dc596cc242e6e054c35c55a3925680fc6d80b699cdb6eab3504814117d7",
+    "robots.txt": "002dd554aee702d43a2a2e3dc11aaddcb7d6cdadca8c3b4ca1786272c0fc6c9f",
+    "16785449be47f5ade164da686dbc3355.txt": "f9e074cf67e3f9ae44b476975abc2fa2bd626a9a0fd841c2d8dbaa7a6f170217"
+  },
+  "revision": "62a99ddb54ab5197f1910e1397dfad62c26d2273afb17b8b522125a21c55c1ac"
+}
